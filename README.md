@@ -18,3 +18,8 @@ PIL package of python is neccessay to run the program. The instruction to instal
 pip is python package installer, it must be install first although its preinstalled in many Linux Distributions.
 
 --->>> sudo apt-get install python-pip
+
+
+orginal_image is the carrier image.
+secret_image is the data to be hidden.
+encrypted_image is the carrier image with hidden data, also this is the image which we transmit via network.
